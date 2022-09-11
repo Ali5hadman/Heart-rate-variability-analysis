@@ -1,0 +1,2 @@
+# Heart-rate-variability-analysis
+In this project we were given a set of raw signals of the heart rate of neonates, is deep sleep and in active sleep, with the help of Matlab we were able to to filter those signals to remove the noise and obtain their spectrum, heart variability and using different algorithms to calculate and compare the neonates sympathetic and parasympathetic ratio in the time interval given using parametric and non-parametric methods.
